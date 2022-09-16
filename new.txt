@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Anglais
-=======
 Francais
->>>>>>> dev
